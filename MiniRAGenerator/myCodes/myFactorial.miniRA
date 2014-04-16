@@ -1,0 +1,295 @@
+syntaxtree.MoveStmt@649e4dc0
+Used: 
+Def: 
+TEMP 24
+
+syntaxtree.MoveStmt@6b40443
+Used: 
+Def: 
+TEMP 25
+
+syntaxtree.MoveStmt@5952e9a8
+Used: 
+Def: 
+TEMP 30
+
+Used: 
+TEMP 30
+TEMP 24
+Def: 
+
+Used: 
+TEMP 25
+TEMP 24
+Def: 
+
+syntaxtree.MoveStmt@3e2de41d
+Used: 
+TEMP 25
+Def: 
+TEMP 23
+
+Used: 
+TEMP 23
+Def: 
+TEMP 21
+
+Used: 
+TEMP 21
+Def: 
+TEMP 22
+
+syntaxtree.MoveStmt@513e86ec
+Used: 
+Def: 
+TEMP 31
+
+2
+syntaxtree.MoveStmt@3a6646fc
+Used: 
+TEMP 23
+TEMP 22
+TEMP 31
+Def: 
+TEMP 32
+
+Used: 
+TEMP 32
+Def: 
+
+new currProc created...
+syntaxtree.MoveStmt@44b471fe
+Used: 
+Def: 
+TEMP 33
+
+syntaxtree.MoveStmt@6a07348e
+Used: 
+TEMP 1
+TEMP 33
+Def: 
+TEMP 34
+
+Used: 
+TEMP 34
+Def: 
+
+syntaxtree.MoveStmt@4f57011e
+Used: 
+Def: 
+TEMP 20
+
+Used: 
+Def: 
+
+Used: 
+Def: 
+
+syntaxtree.MoveStmt@7de534cb
+Used: 
+TEMP 0
+Def: 
+TEMP 29
+
+Used: 
+TEMP 29
+Def: 
+TEMP 27
+
+Used: 
+TEMP 27
+Def: 
+TEMP 28
+
+syntaxtree.MoveStmt@71591b4d
+Used: 
+Def: 
+TEMP 35
+
+syntaxtree.MoveStmt@1658fe12
+Used: 
+TEMP 1
+TEMP 35
+Def: 
+TEMP 36
+
+2
+syntaxtree.MoveStmt@3953c9c7
+Used: 
+TEMP 36
+TEMP 29
+TEMP 28
+Def: 
+TEMP 37
+
+syntaxtree.MoveStmt@177c760b
+Used: 
+TEMP 1
+TEMP 37
+Def: 
+TEMP 38
+
+syntaxtree.MoveStmt@6c29d838
+Used: 
+TEMP 38
+Def: 
+TEMP 20
+
+Used: 
+Def: 
+
+Return Stmt : return stmt
+{L2=syntaxtree.NoOpStmt@2f327c02, L3=syntaxtree.NoOpStmt@1b6b7f83, Fac_ComputeFac=syntaxtree.MoveStmt@44b471fe}
+
+syntaxtree.MoveStmt@44b471fe : syntaxtree.MoveStmt@44b471fe
+syntaxtree.MoveStmt@6a07348e : syntaxtree.MoveStmt@6a07348e
+syntaxtree.CJumpStmt@c971d55 : syntaxtree.CJumpStmt@c971d55
+syntaxtree.MoveStmt@4f57011e : syntaxtree.MoveStmt@4f57011e
+syntaxtree.JumpStmt@1506bde8 : syntaxtree.JumpStmt@1506bde8
+syntaxtree.NoOpStmt@2f327c02 : syntaxtree.NoOpStmt@2f327c02
+syntaxtree.MoveStmt@7de534cb : syntaxtree.MoveStmt@7de534cb
+syntaxtree.HLoadStmt@6d9dd520 : syntaxtree.HLoadStmt@6d9dd520
+syntaxtree.HLoadStmt@15136019 : syntaxtree.HLoadStmt@15136019
+syntaxtree.MoveStmt@71591b4d : syntaxtree.MoveStmt@71591b4d
+syntaxtree.MoveStmt@1658fe12 : syntaxtree.MoveStmt@1658fe12
+syntaxtree.MoveStmt@3953c9c7 : syntaxtree.MoveStmt@3953c9c7
+syntaxtree.MoveStmt@177c760b : syntaxtree.MoveStmt@177c760b
+syntaxtree.MoveStmt@6c29d838 : syntaxtree.MoveStmt@6c29d838
+syntaxtree.NoOpStmt@1b6b7f83 : syntaxtree.NoOpStmt@1b6b7f83
+return stmt
+syntaxtree.MoveStmt@649e4dc0 : syntaxtree.MoveStmt@649e4dc0
+syntaxtree.MoveStmt@6b40443 : syntaxtree.MoveStmt@6b40443
+syntaxtree.MoveStmt@5952e9a8 : syntaxtree.MoveStmt@5952e9a8
+syntaxtree.HStoreStmt@2b0a141e : syntaxtree.HStoreStmt@2b0a141e
+syntaxtree.HStoreStmt@22aed3a5 : syntaxtree.HStoreStmt@22aed3a5
+syntaxtree.MoveStmt@3e2de41d : syntaxtree.MoveStmt@3e2de41d
+syntaxtree.HLoadStmt@3c9076d : syntaxtree.HLoadStmt@3c9076d
+syntaxtree.HLoadStmt@306870c : syntaxtree.HLoadStmt@306870c
+syntaxtree.MoveStmt@513e86ec : syntaxtree.MoveStmt@513e86ec
+syntaxtree.MoveStmt@3a6646fc : syntaxtree.MoveStmt@3a6646fc
+syntaxtree.PrintStmt@218c2661 : syntaxtree.PrintStmt@218c2661
+[TEMP 27 : false : undefinedReg]
+syntaxtree.HLoadStmt@15136019
+[TEMP 36 : false : undefinedReg]
+syntaxtree.MoveStmt@3953c9c7
+[TEMP 29 : false : undefinedReg]
+syntaxtree.MoveStmt@3953c9c7
+[TEMP 35 : false : undefinedReg]
+syntaxtree.MoveStmt@1658fe12
+[TEMP 37 : false : undefinedReg]
+syntaxtree.MoveStmt@177c760b
+[TEMP 28 : false : undefinedReg]
+syntaxtree.MoveStmt@3953c9c7
+[TEMP 34 : false : undefinedReg]
+syntaxtree.CJumpStmt@c971d55
+[TEMP 20 : false : undefinedReg]
+return stmt
+[TEMP 33 : false : undefinedReg]
+syntaxtree.MoveStmt@6a07348e
+[TEMP 38 : false : undefinedReg]
+syntaxtree.MoveStmt@6c29d838
+[TEMP 32 : false : undefinedReg]
+syntaxtree.PrintStmt@218c2661
+[TEMP 25 : false : undefinedReg]
+syntaxtree.MoveStmt@3e2de41d
+[TEMP 23 : false : undefinedReg]
+syntaxtree.MoveStmt@3a6646fc
+[TEMP 30 : false : undefinedReg]
+syntaxtree.HStoreStmt@2b0a141e
+[TEMP 24 : false : undefinedReg]
+syntaxtree.HStoreStmt@22aed3a5
+[TEMP 22 : false : undefinedReg]
+syntaxtree.MoveStmt@3a6646fc
+[TEMP 21 : false : undefinedReg]
+syntaxtree.HLoadStmt@306870c
+[TEMP 31 : false : undefinedReg]
+syntaxtree.MoveStmt@3a6646fc
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+myClasses.ProcRegDetails@154ab8e4
+STMT EXP
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+
+:::::::::::::::::::::::::::::::::::
+Fac_ComputeFac
+:::::::::::::::::::::::::::::::::::
+main
+-------------THIRD PARSE-----------------
+[TEMP 27, TEMP 36, TEMP 0, TEMP 29, TEMP 1, TEMP 35, TEMP 37, TEMP 28, TEMP 34, TEMP 20, TEMP 33, TEMP 38]
+------------------THIRD PARSE COMPLETED-----------
+MAIN[0][0][2]
+ MOVE t0 HALLOCATE 4
+ MOVE t1 HALLOCATE 4
+ MOVE t2 Fac_ComputeFac
+ HSTORE t0 0 t2
+ HSTORE t1 0 t0
+ MOVE t0 t1
+ HLOAD t1 t0 0
+ HLOAD t2 t1 0
+ MOVE t1 10
+  MOVE a0 t0
+ MOVE a1 t1
+ CALL t2
+ MOVE t3 v0
+
+PRINT  t3
+END
+Fac_ComputeFac[2][3][2]
+ASTORE SPILLEDARG 0 s0
+ASTORE SPILLEDARG 1 s1
+ASTORE SPILLEDARG 2 s2
+MOVE s0 a0
+MOVE s1 a1
+  MOVE t0 1
+ MOVE t1 LT s1 t0
+
+ CJUMP t1 L2
+ MOVE s2 1
+ JUMP L3
+
+L2   NOOP
+ MOVE t0 s0
+ HLOAD t1 t0 0
+ HLOAD t2 t1 0
+ MOVE t1 1
+ MOVE t3 MINUS s1 t1
+
+  MOVE a0 t0
+ MOVE a1 t3
+ CALL t2
+ MOVE t1 v0
+
+ MOVE t0 TIMES s1 t1
+
+ MOVE s2 t0
+
+L3   NOOP
+
+MOVE v0  s2
+ASTORE s0 SPILLEDARG 0
+ASTORE s1 SPILLEDARG 1
+ASTORE s2 SPILLEDARG 2
+

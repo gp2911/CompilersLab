@@ -1,0 +1,12 @@
+MAIN [0] [2] [3]
+	//MOVE s1 2
+    CALL TEST
+END
+
+TEST [0] [2] [3]
+	ALOAD s1 SPILLEDARG 1
+	//MOVE t0 3
+	MOVE s1 5
+	HLOAD t0 s1 3
+	PRINT s1
+END

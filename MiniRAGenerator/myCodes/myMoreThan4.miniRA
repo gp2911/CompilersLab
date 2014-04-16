@@ -1,0 +1,320 @@
+syntaxtree.MoveStmt@2eb481ba
+Used: 
+Def: 
+TEMP 24
+
+syntaxtree.MoveStmt@7d6b5518
+Used: 
+Def: 
+TEMP 25
+
+syntaxtree.MoveStmt@15e1df6e
+Used: 
+Def: 
+TEMP 30
+
+Used: 
+TEMP 24
+TEMP 30
+Def: 
+
+syntaxtree.MoveStmt@6f171e30
+Used: 
+Def: 
+TEMP 31
+
+Used: 
+TEMP 24
+TEMP 31
+Def: 
+
+Used: 
+TEMP 24
+TEMP 25
+Def: 
+
+syntaxtree.MoveStmt@1c571cc4
+Used: 
+TEMP 25
+Def: 
+TEMP 23
+
+Used: 
+TEMP 23
+Def: 
+TEMP 21
+
+Used: 
+TEMP 21
+Def: 
+TEMP 22
+
+syntaxtree.MoveStmt@7377711
+Used: 
+Def: 
+TEMP 32
+
+syntaxtree.MoveStmt@7559f3f0
+Used: 
+Def: 
+TEMP 33
+
+syntaxtree.MoveStmt@5502abdb
+Used: 
+Def: 
+TEMP 34
+
+syntaxtree.MoveStmt@6b40443
+Used: 
+Def: 
+TEMP 35
+
+syntaxtree.MoveStmt@5952e9a8
+Used: 
+Def: 
+TEMP 36
+
+syntaxtree.MoveStmt@3e2de41d
+Used: 
+Def: 
+TEMP 37
+
+7
+syntaxtree.MoveStmt@774e1f2b
+Used: 
+TEMP 32
+TEMP 23
+TEMP 33
+TEMP 35
+TEMP 22
+TEMP 37
+TEMP 36
+TEMP 34
+Def: 
+TEMP 38
+
+Used: 
+TEMP 38
+Def: 
+
+new currProc created...
+Used: 
+TEMP 1
+Def: 
+
+Used: 
+TEMP 2
+Def: 
+
+Used: 
+TEMP 3
+Def: 
+
+Used: 
+TEMP 4
+Def: 
+
+Used: 
+TEMP 5
+Def: 
+
+Used: 
+TEMP 6
+Def: 
+
+syntaxtree.MoveStmt@6a07348e
+Used: 
+TEMP 0
+Def: 
+TEMP 29
+
+Used: 
+TEMP 29
+Def: 
+TEMP 27
+
+Used: 
+TEMP 27
+Def: 
+TEMP 28
+
+7
+syntaxtree.MoveStmt@40ac8360
+Used: 
+TEMP 6
+TEMP 28
+TEMP 3
+TEMP 2
+TEMP 29
+TEMP 5
+TEMP 4
+TEMP 1
+Def: 
+TEMP 39
+
+syntaxtree.MoveStmt@52ed3bff
+Used: 
+TEMP 39
+Def: 
+TEMP 20
+
+Return Stmt : return stmt
+new currProc created...
+Used: 
+TEMP 1
+Def: 
+
+Used: 
+TEMP 2
+Def: 
+
+Used: 
+TEMP 3
+Def: 
+
+Used: 
+TEMP 4
+Def: 
+
+Used: 
+TEMP 5
+Def: 
+
+Used: 
+TEMP 6
+Def: 
+
+syntaxtree.MoveStmt@72ffb35e
+Used: 
+Def: 
+TEMP 40
+
+Return Stmt : return stmt
+{MT4_Change=syntaxtree.PrintStmt@71591b4d, MT4_Start=syntaxtree.PrintStmt@110f965e}
+
+syntaxtree.PrintStmt@71591b4d : syntaxtree.PrintStmt@71591b4d
+syntaxtree.PrintStmt@6d9dd520 : syntaxtree.PrintStmt@6d9dd520
+syntaxtree.PrintStmt@15136019 : syntaxtree.PrintStmt@15136019
+syntaxtree.PrintStmt@2b0a141e : syntaxtree.PrintStmt@2b0a141e
+syntaxtree.PrintStmt@22aed3a5 : syntaxtree.PrintStmt@22aed3a5
+syntaxtree.PrintStmt@3c9076d : syntaxtree.PrintStmt@3c9076d
+syntaxtree.MoveStmt@72ffb35e : syntaxtree.MoveStmt@72ffb35e
+return stmt
+syntaxtree.PrintStmt@110f965e : syntaxtree.PrintStmt@110f965e
+syntaxtree.PrintStmt@306870c : syntaxtree.PrintStmt@306870c
+syntaxtree.PrintStmt@218c2661 : syntaxtree.PrintStmt@218c2661
+syntaxtree.PrintStmt@782bbb7b : syntaxtree.PrintStmt@782bbb7b
+syntaxtree.PrintStmt@7f21c5df : syntaxtree.PrintStmt@7f21c5df
+syntaxtree.PrintStmt@245f4ae : syntaxtree.PrintStmt@245f4ae
+syntaxtree.MoveStmt@6a07348e : syntaxtree.MoveStmt@6a07348e
+syntaxtree.HLoadStmt@3ec2ccac : syntaxtree.HLoadStmt@3ec2ccac
+syntaxtree.HLoadStmt@670b5064 : syntaxtree.HLoadStmt@670b5064
+syntaxtree.MoveStmt@40ac8360 : syntaxtree.MoveStmt@40ac8360
+syntaxtree.MoveStmt@52ed3bff : syntaxtree.MoveStmt@52ed3bff
+return stmt
+syntaxtree.MoveStmt@2eb481ba : syntaxtree.MoveStmt@2eb481ba
+syntaxtree.MoveStmt@7d6b5518 : syntaxtree.MoveStmt@7d6b5518
+syntaxtree.MoveStmt@15e1df6e : syntaxtree.MoveStmt@15e1df6e
+syntaxtree.HStoreStmt@17cb0a16 : syntaxtree.HStoreStmt@17cb0a16
+syntaxtree.MoveStmt@6f171e30 : syntaxtree.MoveStmt@6f171e30
+syntaxtree.HStoreStmt@1303368e : syntaxtree.HStoreStmt@1303368e
+syntaxtree.HStoreStmt@37f2ae62 : syntaxtree.HStoreStmt@37f2ae62
+syntaxtree.MoveStmt@1c571cc4 : syntaxtree.MoveStmt@1c571cc4
+syntaxtree.HLoadStmt@1d96c0a0 : syntaxtree.HLoadStmt@1d96c0a0
+syntaxtree.HLoadStmt@1440578d : syntaxtree.HLoadStmt@1440578d
+syntaxtree.MoveStmt@7377711 : syntaxtree.MoveStmt@7377711
+syntaxtree.MoveStmt@7559f3f0 : syntaxtree.MoveStmt@7559f3f0
+syntaxtree.MoveStmt@5502abdb : syntaxtree.MoveStmt@5502abdb
+syntaxtree.MoveStmt@6b40443 : syntaxtree.MoveStmt@6b40443
+syntaxtree.MoveStmt@5952e9a8 : syntaxtree.MoveStmt@5952e9a8
+syntaxtree.MoveStmt@3e2de41d : syntaxtree.MoveStmt@3e2de41d
+syntaxtree.MoveStmt@774e1f2b : syntaxtree.MoveStmt@774e1f2b
+syntaxtree.PrintStmt@c33f45e : syntaxtree.PrintStmt@c33f45e
+[TEMP 40 : false : undefinedReg]
+return stmt
+[TEMP 28 : false : undefinedReg]
+syntaxtree.MoveStmt@40ac8360
+[TEMP 39 : false : undefinedReg]
+syntaxtree.MoveStmt@52ed3bff
+[TEMP 20 : false : undefinedReg]
+return stmt
+[TEMP 29 : false : undefinedReg]
+syntaxtree.MoveStmt@40ac8360
+[TEMP 27 : false : undefinedReg]
+syntaxtree.HLoadStmt@670b5064
+[TEMP 24 : false : undefinedReg]
+syntaxtree.HStoreStmt@37f2ae62
+[TEMP 32 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 33 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 36 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 25 : false : undefinedReg]
+syntaxtree.MoveStmt@1c571cc4
+[TEMP 38 : false : undefinedReg]
+syntaxtree.PrintStmt@c33f45e
+[TEMP 34 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 23 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 35 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 37 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 22 : false : undefinedReg]
+syntaxtree.MoveStmt@774e1f2b
+[TEMP 31 : false : undefinedReg]
+syntaxtree.HStoreStmt@1303368e
+[TEMP 21 : false : undefinedReg]
+syntaxtree.HLoadStmt@1440578d
+[TEMP 30 : false : undefinedReg]
+syntaxtree.HStoreStmt@17cb0a16
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+myClasses.ProcRegDetails@11e78461
+STMT EXP
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+myClasses.ProcRegDetails@76a40575
+STMT EXP
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+
+:::::::::::::::::::::::::::::::::::
+MT4_Change
+:::::::::::::::::::::::::::::::::::
+MT4_Start
+:::::::::::::::::::::::::::::::::::
+main
+-------------THIRD PARSE-----------------

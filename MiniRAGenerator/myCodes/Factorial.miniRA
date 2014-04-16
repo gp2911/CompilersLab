@@ -1,0 +1,371 @@
+syntaxtree.MoveStmt@7de534cb
+Used: 
+Def: 
+TEMP 24
+
+syntaxtree.MoveStmt@72ffb35e
+Used: 
+Def: 
+TEMP 25
+
+syntaxtree.MoveStmt@110f965e
+Used: 
+Def: 
+TEMP 30
+
+Used: 
+TEMP 24
+TEMP 30
+Def: 
+
+Used: 
+TEMP 24
+TEMP 25
+Def: 
+
+syntaxtree.MoveStmt@2c905b34
+Used: 
+TEMP 25
+Def: 
+TEMP 23
+
+Used: 
+TEMP 23
+Def: 
+TEMP 21
+
+Used: 
+TEMP 21
+Def: 
+TEMP 22
+
+syntaxtree.MoveStmt@6c29d838
+Used: 
+Def: 
+TEMP 31
+
+2
+syntaxtree.MoveStmt@1b6b7f83
+Used: 
+TEMP 31
+TEMP 23
+TEMP 22
+Def: 
+TEMP 32
+
+Used: 
+TEMP 32
+Def: 
+
+new currProc created...
+syntaxtree.MoveStmt@76340c9c
+Used: 
+Def: 
+TEMP 33
+
+syntaxtree.MoveStmt@76c27ba
+Used: 
+TEMP 33
+Def: 
+TEMP 34
+
+Used: 
+TEMP 34
+Def: 
+
+syntaxtree.MoveStmt@54477b4e
+Used: 
+Def: 
+TEMP 20
+
+Used: 
+Def: 
+
+Used: 
+Def: 
+
+syntaxtree.MoveStmt@1be0799a
+Used: 
+Def: 
+TEMP 29
+
+Used: 
+TEMP 29
+Def: 
+TEMP 27
+
+Used: 
+TEMP 27
+Def: 
+TEMP 28
+
+syntaxtree.MoveStmt@3325070
+Used: 
+Def: 
+TEMP 35
+
+syntaxtree.MoveStmt@26a2bd15
+Used: 
+TEMP 35
+Def: 
+TEMP 36
+
+2
+syntaxtree.MoveStmt@22adc446
+Used: 
+TEMP 28
+TEMP 29
+TEMP 36
+Def: 
+TEMP 37
+
+syntaxtree.MoveStmt@7b2164ea
+Used: 
+TEMP 37
+Def: 
+TEMP 38
+
+syntaxtree.MoveStmt@4d687dcd
+Used: 
+TEMP 38
+Def: 
+TEMP 20
+
+Used: 
+Def: 
+
+Return Stmt : return stmt
+======================================================
+{34=TEMP 34, 35=TEMP 35, 32=TEMP 32, 33=TEMP 33, 38=TEMP 38, 36=TEMP 36, 37=TEMP 37, 21=TEMP 21, 20=TEMP 20, 23=TEMP 23, 22=TEMP 22, 25=TEMP 25, 24=TEMP 24, 27=TEMP 27, 29=TEMP 29, 28=TEMP 28, 31=TEMP 31, 30=TEMP 30}
+
+*****************************
+Fac_ComputeFac
+*****************************
+main
+##############################
+Fac_ComputeFac
+syntaxtree.MoveStmt@76340c9c : syntaxtree.MoveStmt@76340c9c
+syntaxtree.MoveStmt@76c27ba : syntaxtree.MoveStmt@76c27ba
+syntaxtree.CJumpStmt@6a754384 : syntaxtree.CJumpStmt@6a754384
+syntaxtree.MoveStmt@54477b4e : syntaxtree.MoveStmt@54477b4e
+syntaxtree.JumpStmt@38a3c5b6 : syntaxtree.JumpStmt@38a3c5b6
+syntaxtree.NoOpStmt@8094cc7 : syntaxtree.NoOpStmt@8094cc7
+syntaxtree.MoveStmt@1be0799a : syntaxtree.MoveStmt@1be0799a
+syntaxtree.HLoadStmt@1a8fa0f0 : syntaxtree.HLoadStmt@1a8fa0f0
+syntaxtree.HLoadStmt@4b8efa2f : syntaxtree.HLoadStmt@4b8efa2f
+syntaxtree.MoveStmt@3325070 : syntaxtree.MoveStmt@3325070
+syntaxtree.MoveStmt@26a2bd15 : syntaxtree.MoveStmt@26a2bd15
+syntaxtree.MoveStmt@22adc446 : syntaxtree.MoveStmt@22adc446
+syntaxtree.MoveStmt@7b2164ea : syntaxtree.MoveStmt@7b2164ea
+syntaxtree.MoveStmt@4d687dcd : syntaxtree.MoveStmt@4d687dcd
+syntaxtree.NoOpStmt@17cb4a6a : syntaxtree.NoOpStmt@17cb4a6a
+return stmt
+##############################
+main
+syntaxtree.MoveStmt@7de534cb : syntaxtree.MoveStmt@7de534cb
+syntaxtree.MoveStmt@72ffb35e : syntaxtree.MoveStmt@72ffb35e
+syntaxtree.MoveStmt@110f965e : syntaxtree.MoveStmt@110f965e
+syntaxtree.HStoreStmt@2382815a : syntaxtree.HStoreStmt@2382815a
+syntaxtree.HStoreStmt@4cfa4dec : syntaxtree.HStoreStmt@4cfa4dec
+syntaxtree.MoveStmt@2c905b34 : syntaxtree.MoveStmt@2c905b34
+syntaxtree.HLoadStmt@4511e86f : syntaxtree.HLoadStmt@4511e86f
+syntaxtree.HLoadStmt@1ab2f2d6 : syntaxtree.HLoadStmt@1ab2f2d6
+syntaxtree.MoveStmt@6c29d838 : syntaxtree.MoveStmt@6c29d838
+syntaxtree.MoveStmt@1b6b7f83 : syntaxtree.MoveStmt@1b6b7f83
+syntaxtree.PrintStmt@5a64cd4b : syntaxtree.PrintStmt@5a64cd4b
++++++++++++++++++++++++++++++++++
+Fac_ComputeFac
+TEMP 35
+[TEMP 35 : false : undefinedReg]
+syntaxtree.MoveStmt@26a2bd15
+
+TEMP 34
+[TEMP 34 : false : undefinedReg]
+syntaxtree.CJumpStmt@6a754384
+
+TEMP 28
+[TEMP 28 : false : undefinedReg]
+syntaxtree.MoveStmt@22adc446
+
+TEMP 1
+TEMP 38
+[TEMP 38 : false : undefinedReg]
+syntaxtree.MoveStmt@4d687dcd
+
+TEMP 33
+[TEMP 33 : false : undefinedReg]
+syntaxtree.MoveStmt@76c27ba
+
+TEMP 27
+[TEMP 27 : false : undefinedReg]
+syntaxtree.HLoadStmt@4b8efa2f
+
+TEMP 0
+TEMP 37
+[TEMP 37 : false : undefinedReg]
+syntaxtree.MoveStmt@7b2164ea
+
+TEMP 20
+[TEMP 20 : false : undefinedReg]
+return stmt
+
+TEMP 29
+[TEMP 29 : false : undefinedReg]
+syntaxtree.MoveStmt@22adc446
+
+TEMP 36
+[TEMP 36 : false : undefinedReg]
+syntaxtree.MoveStmt@22adc446
+
+Fac_ComputeFac
+{TEMP 35=[TEMP 35 : false : undefinedReg], TEMP 34=[TEMP 34 : false : undefinedReg], TEMP 1=[TEMP 1 : true : undefinedReg], TEMP 28=[TEMP 28 : false : undefinedReg], TEMP 38=[TEMP 38 : false : undefinedReg], TEMP 33=[TEMP 33 : false : undefinedReg], TEMP 0=[TEMP 0 : true : undefinedReg], TEMP 27=[TEMP 27 : false : undefinedReg], TEMP 37=[TEMP 37 : false : undefinedReg], TEMP 20=[TEMP 20 : false : undefinedReg], TEMP 29=[TEMP 29 : false : undefinedReg], TEMP 36=[TEMP 36 : false : undefinedReg]}
++++++++++++++++++++++++++++++++++
+main
+TEMP 32
+[TEMP 32 : false : undefinedReg]
+syntaxtree.PrintStmt@5a64cd4b
+
+TEMP 31
+[TEMP 31 : false : undefinedReg]
+syntaxtree.MoveStmt@1b6b7f83
+
+TEMP 23
+[TEMP 23 : false : undefinedReg]
+syntaxtree.MoveStmt@1b6b7f83
+
+TEMP 24
+[TEMP 24 : false : undefinedReg]
+syntaxtree.HStoreStmt@4cfa4dec
+
+TEMP 21
+[TEMP 21 : false : undefinedReg]
+syntaxtree.HLoadStmt@1ab2f2d6
+
+TEMP 30
+[TEMP 30 : false : undefinedReg]
+syntaxtree.HStoreStmt@2382815a
+
+TEMP 25
+[TEMP 25 : false : undefinedReg]
+syntaxtree.MoveStmt@2c905b34
+
+TEMP 22
+[TEMP 22 : false : undefinedReg]
+syntaxtree.MoveStmt@1b6b7f83
+
+main
+{TEMP 32=[TEMP 32 : false : undefinedReg], TEMP 31=[TEMP 31 : false : undefinedReg], TEMP 23=[TEMP 23 : false : undefinedReg], TEMP 24=[TEMP 24 : false : undefinedReg], TEMP 25=[TEMP 25 : false : undefinedReg], TEMP 30=[TEMP 30 : false : undefinedReg], TEMP 21=[TEMP 21 : false : undefinedReg], TEMP 22=[TEMP 22 : false : undefinedReg]}
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+myClasses.ProcRegDetails@5f2e712f
+STMT EXP
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+stmt
+
+:::::::::::::::::::::::::::::::::::
+Fac_ComputeFac
+:::::::::::::::::::::::::::::::::::
+main
+-------------THIRD PARSE-----------------
+{TEMP 32=[TEMP 32 : false : t3], TEMP 31=[TEMP 31 : false : t1], TEMP 23=[TEMP 23 : false : t0], TEMP 24=[TEMP 24 : false : t0], TEMP 25=[TEMP 25 : false : t1], TEMP 30=[TEMP 30 : false : t2], TEMP 21=[TEMP 21 : false : t1], TEMP 22=[TEMP 22 : false : t2]}  :  TEMP 25
+[TEMP 25 : false : t1]
+{TEMP 32=[TEMP 32 : false : t3], TEMP 31=[TEMP 31 : false : t1], TEMP 23=[TEMP 23 : false : t0], TEMP 24=[TEMP 24 : false : t0], TEMP 25=[TEMP 25 : false : t1], TEMP 30=[TEMP 30 : false : t2], TEMP 21=[TEMP 21 : false : t1], TEMP 22=[TEMP 22 : false : t2]}  :  TEMP 22
+[TEMP 22 : false : t2]
+{TEMP 32=[TEMP 32 : false : t3], TEMP 31=[TEMP 31 : false : t1], TEMP 23=[TEMP 23 : false : t0], TEMP 24=[TEMP 24 : false : t0], TEMP 25=[TEMP 25 : false : t1], TEMP 30=[TEMP 30 : false : t2], TEMP 21=[TEMP 21 : false : t1], TEMP 22=[TEMP 22 : false : t2]}  :  TEMP 32
+[TEMP 32 : false : t3]
+------------------MAIN OVER---------------------
+-------------------Fac_ComputeFac------------------------
+[TEMP 35, TEMP 34, TEMP 28, TEMP 1, TEMP 38, TEMP 33, TEMP 27, TEMP 0, TEMP 37, TEMP 20, TEMP 29, TEMP 36]
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]} : TEMP 0 : 0
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]} : TEMP 1 : 1
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]}  :  TEMP 33
+[TEMP 33 : false : t0]
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]}  :  TEMP 0
+[TEMP 0 : true : s1]
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]}  :  TEMP 35
+[TEMP 35 : false : t1]
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]}  :  TEMP 28
+[TEMP 28 : false : t2]
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]}  :  TEMP 37
+[TEMP 37 : false : t1]
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]}  :  TEMP 38
+[TEMP 38 : false : t0]
+{TEMP 35=[TEMP 35 : false : t1], TEMP 34=[TEMP 34 : false : t1], TEMP 1=[TEMP 1 : true : s0], TEMP 28=[TEMP 28 : false : t2], TEMP 38=[TEMP 38 : false : t0], TEMP 33=[TEMP 33 : false : t0], TEMP 0=[TEMP 0 : true : s1], TEMP 27=[TEMP 27 : false : t1], TEMP 37=[TEMP 37 : false : t1], TEMP 20=[TEMP 20 : true : s2], TEMP 29=[TEMP 29 : false : t0], TEMP 36=[TEMP 36 : false : t3]}  :  TEMP 20
+[TEMP 20 : true : s2]
+------------------THIRD PARSE COMPLETED-----------
+MAIN[0][0][2]
+ MOVE t0  HALLOCATE 4
+ MOVE t1  HALLOCATE 4
+ MOVE t2  Fac_ComputeFac
+ HSTORE t0 0 t2
+ HSTORE t1 0 t0
+ MOVE t0  t1
+ HLOAD t1 t0 0
+ HLOAD t2 t1 0
+ MOVE t1  10
+  MOVE a0 t0
+ MOVE a1 t1
+ CALL t2
+ MOVE t3 v0
+
+PRINT  t3
+END
+Fac_ComputeFac[2][3][2]
+ASTORE SPILLEDARG 0 s0
+ASTORE SPILLEDARG 1 s1
+ASTORE SPILLEDARG 2 s2
+MOVE s1 a0
+MOVE s0 a1
+  MOVE t0  1
+ MOVE t1  LT s0 t0
+
+ CJUMP t1 L2
+ MOVE s2  1
+ JUMP L3
+
+L2   NOOP
+ MOVE t0  s1
+ HLOAD t1 t0 0
+ HLOAD t2 t1 0
+ MOVE t1  1
+ MOVE t3  MINUS s0 t1
+
+  MOVE a0 t0
+ MOVE a1 t3
+ CALL t2
+ MOVE t1 v0
+
+ MOVE t0  TIMES s0 t1
+
+ MOVE s2  t0
+
+L3   NOOP
+
+MOVE v0  s2
+ALOAD s0 SPILLEDARG 0
+ALOAD s1 SPILLEDARG 1
+ALOAD s2 SPILLEDARG 2
+END
+

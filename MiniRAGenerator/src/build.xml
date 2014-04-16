@@ -1,0 +1,37 @@
+<project default="all">
+	<property name="BUILDDIR" location="build" />
+	<target  name="init">
+		<mkdir dir="${BUILDDIR}"/>
+		<mkdir dir="${BUILDDIR}/classes"/>
+		<mkdir dir="${BUILDDIR}/classes/myClasses"/>
+		<mkdir dir="${BUILDDIR}/syntaxtree"/>
+		<mkdir dir="${BUILDDIR}/visitor"/>
+	</target>
+	<target name="init-clean">
+		<delete dir="${BUILDDIR}"/>
+	</target>
+	<target name="compile">
+		<javac srcdir="." destdir="${BUILDDIR}/classes" />
+		<javac srcdir="./syntaxtree" destdir="${BUILDDIR}/classes/syntaxtree"/>
+		<javac srcdir="./myClasses" destdir="${BUILDDIR}/classes/myClasses"/>
+		<javac srcdir="./visitor" destdir="${BUILDDIR}/classes/visitor"/>
+	</target>
+	<target name="run">
+        <java jar="build/jar/P5.jar" fork="true">
+        	<arg value="${arg0}"/>
+        	<arg value="${arg1}"/>
+        </java>
+    </target>
+	<target name="clean" depends="init-clean">
+		<delete dir="${BUILDDIR}" />
+	</target>
+	<target name="jar">
+        <mkdir dir="${BUILDDIR}/jar"/>
+        <jar destfile="build/jar/P5.jar" basedir="${BUILDDIR}/classes">
+            <manifest>
+                <attribute name="Main-Class" value="Main"/>
+            </manifest>
+        </jar>
+    </target>
+	<target name="all" depends="init,compile,run,jar" />
+</project>
